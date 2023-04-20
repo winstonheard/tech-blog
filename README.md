@@ -8,7 +8,7 @@ A CMS-style blog site, where developers can publish their blog posts and comment
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Video](#video) 
+- [Screenshot](#screenshot) 
 - [Contributing](#contributing)
 - [Questions](#questions)
 
@@ -21,7 +21,7 @@ A CMS-style blog site, where developers can publish their blog posts and comment
 
 ## Installation
 
-This project makes use of Node.js and the MySQL2 package to connect the database
+No installation is necessary when viewed via Heroku
 
 ## Usage
 
@@ -61,9 +61,9 @@ This project makes use of Node.js and the MySQL2 package to connect the database
 
 
 
-## Video
+## Screenshot
 
-[Recording](https://drive.google.com/file/d/1v9SeXAdoLa8QXrQTJe6XbkGBQkjNUgjz/view)
+[Screenshot](/tech-blog-screenshot.png)
 
 
 
